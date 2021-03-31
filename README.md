@@ -1,4 +1,4 @@
-![Image of Biotic](https://github.com/japasowi/Biotic/main/docs/logos/biotic.png)
+![Image of Biotic](https://raw.githubusercontent.com/japasowi/Biotic/main/doc/logos/biotic.png)
 
 
 # Biotic
