@@ -7,7 +7,7 @@ A Python API inspired by Biology
 
 ## Overview
 
-Biotic is open-source software for programming biological processes. It provides modules for machine learning, pharmocology, simulation, and more. While existing machine learning frameworks build off of linear algebra. Biotic builds off of cellular biology.
+Biotic is open-source software for programming biological processes. It provides modules for machine learning, pharmocology, simulation, and more. While existing machine learning frameworks build on linear algebra, Biotic replicates cellular biology.
 
 ## Installation 
 
